@@ -18,6 +18,7 @@ reporting date 01.01.21
 
 ## 개발환경 Environment
 * Python
+* TensorFlow, Pandas, NumPy, Matplotlib, SciPy, Seaborn, Pandas Library
 * GoogleColab
 
 &nbsp;
